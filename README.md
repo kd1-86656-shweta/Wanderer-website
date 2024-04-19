@@ -27,11 +27,18 @@ To get started with the project, follow these steps:
 5. Open your web browser and navigate to the local server address to view the application.
 
 ## Screenshots
-
+Website home page look
 ![Screenshot 1](https://github.com/shw1/Wanderer-website/blob/main/image1.png)
+
+Reviews on website
 ![Screenshot 2](https://github.com/shw1/Wanderer-website/blob/main/image2.png)
+
+For signup
 ![Screenshot 3](https://github.com/shw1/Wanderer-website/blob/main/image3.png)
+
+ 1 st question after choosing answer click on next button
 ![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image4.png)
+
 ![Screenshot 5](https://github.com/shw1/Wanderer-website/blob/main/image5.png)
 ![Screenshot 6](https://github.com/shw1/Wanderer-website/blob/main/image6.png)
 ![Screenshot 7](https://github.com/shw1/Wanderer-website/blob/main/image7.png)
