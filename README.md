@@ -1,4 +1,4 @@
-# Wanderer Website Clone
+# Wanderer Website 
 
 This project is a clone of the Wanderer website, implemented using SvelteKit and JavaScript. The goal of this project is to replicate the functionality and design of the original Wanderer website while leveraging the power and flexibility of the SvelteKit framework.
 
@@ -32,10 +32,10 @@ To get started with the project, follow these steps:
 ![Screenshot 2](https://github.com/shw1/Wanderer-website/blob/main/image2.png)
 ![Screenshot 3](https://github.com/shw1/Wanderer-website/blob/main/image3.png)
 ![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image4.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image5.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image6.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image7.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image8.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image9.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image10.png)
-![Screenshot 4](https://github.com/shw1/Wanderer-website/blob/main/image11.png)
+![Screenshot 5](https://github.com/shw1/Wanderer-website/blob/main/image5.png)
+![Screenshot 6](https://github.com/shw1/Wanderer-website/blob/main/image6.png)
+![Screenshot 7](https://github.com/shw1/Wanderer-website/blob/main/image7.png)
+![Screenshot 8](https://github.com/shw1/Wanderer-website/blob/main/image8.png)
+![Screenshot 9](https://github.com/shw1/Wanderer-website/blob/main/image9.png)
+![Screenshot 10](https://github.com/shw1/Wanderer-website/blob/main/image10.png)
+![Screenshot 11](https://github.com/shw1/Wanderer-website/blob/main/image11.png)
