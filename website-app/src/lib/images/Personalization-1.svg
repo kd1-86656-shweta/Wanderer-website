@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="202" viewBox="0 0 202 202">
+  <defs>
+    <filter id="Rectangle_53" x="0" y="0" width="202" height="202" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_370" data-name="Group 370" transform="translate(-613 -1969)">
+    <g transform="matrix(1, 0, 0, 1, 613, 1969)" filter="url(#Rectangle_53)">
+      <rect id="Rectangle_53-2" data-name="Rectangle 53" width="148" height="148" transform="translate(27 24)" fill="#F8FBF8"/>
+    </g>
+    <path id="tune_FILL0_wght400_GRAD0_opsz48" d="M6,71.313V65.171H31.286v6.142ZM6,20.537V14.394H48.28v6.142ZM37.428,79.708V56.674H43.57v8.5H79.708v6.142H43.57v8.395ZM25.144,54.32V45.925H6V39.783H25.144v-8.6h6.142V54.32Zm12.285-8.395V39.783h42.28v6.142ZM54.422,29.034V6h6.142v8.394H79.708v6.142H60.564v8.5Z" transform="translate(671.146 2024.146)" fill="#4a4c3d"/>
+  </g>
+</svg>
